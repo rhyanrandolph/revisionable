@@ -1,5 +1,5 @@
 {
-    "name": "rhyanrandolph/revisionable",
+    "name": "sofa/revisionable",
     "description": "Nice and easy way to handle revisions of your db.",
     "license": "MIT",
     "support": {
